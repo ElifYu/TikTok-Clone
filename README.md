@@ -1,6 +1,6 @@
-# tiktok_clone
+# ♪ TikTok Clone ♪
 
-A new Flutter project.
+With Firebase Tiktok Clone | Flutter
 
 
 <p float="left">
