@@ -12,7 +12,7 @@ A new Flutter project.
    <img src="https://github.com/ElifYu/TikTok-Clone/blob/main/assets/image2.jpeg" width="20%"/>
     <img src="https://github.com/ElifYu/TikTok-Clone/blob/main/assets/image1.jpeg" width="20%"/>
      <img src="https://github.com/ElifYu/TikTok-Clone/blob/main/assets/image7.jpeg" width="20%"/>
-      <img src="https://github.com/ElifYu/TikTok-Clone/blob/main/assets/image1.jpeg" width="20%"/>
+      <img src="https://github.com/ElifYu/TikTok-Clone/blob/main/assets/image9.jpeg" width="20%"/>
         <img src="https://github.com/ElifYu/TikTok-Clone/blob/main/assets/image5.jpeg" width="20%"/>
 
 </p>
