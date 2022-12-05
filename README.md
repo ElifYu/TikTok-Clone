@@ -1,6 +1,6 @@
 # ♪ TikTok Clone ♪
 
-With Firebase Tiktok Clone | Flutter
+With Firebase Tiktok Clone | Flutter App 📱
 
 
 <p float="left">
